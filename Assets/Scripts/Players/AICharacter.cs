@@ -47,7 +47,7 @@ public class AICharacter : MonoBehaviour
 
     public AttackPatterns[] attackPatterns;
 
-    //Our AI states
+    
     public enum AIState
     { 
         closeState,
