@@ -71,4 +71,5 @@ public class HandleDamageColliders : MonoBehaviour {
             damageColldersRight[i].SetActive(false);
         }
     }
+
 }
